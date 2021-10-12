@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="APCSA SHAPES">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../APCSA_Shapes_jar/APCSA Shapes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="APCSA Unit 3 Student Templates:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/APCSA_Unit_3_Student_Templates_jar2</output-path>
+    <root id="archive" name="APCSA Unit 3 Student Templates.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/.idea/out/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="APCSA Unit 3 Student Templates" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../APCSA_Shapes_jar/APCSA Shapes.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
